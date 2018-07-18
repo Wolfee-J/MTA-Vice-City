@@ -1,0 +1,5 @@
+<meta>
+	<info type="script" name="" author="CodyL" description="VC Light Gen" version="1.0.0" />
+	
+	<script type="client" src="lightGen.lua" />
+</meta>

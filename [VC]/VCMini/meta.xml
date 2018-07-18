@@ -1,0 +1,76 @@
+<meta>
+	<info name="JConversion Rectangle Map" author="JDev" version="4" type="script" />
+	
+	<script src="Settings.lua" type="client" />
+	<script src="Client.lua" type="client" />
+	
+	<file src="files/images/map.jpg" />
+	<file src="files/images/arrow.png" />
+
+	<file src="blips/0.png"/>
+	<file src="blips/1.png"/>
+	<file src="blips/2.png"/>
+	<file src="blips/3.png"/>
+	<file src="blips/4.png"/>
+	<file src="blips/5.png"/>
+	<file src="blips/6.png"/>
+	<file src="blips/7.png"/>
+	<file src="blips/8.png"/>
+	<file src="blips/9.png"/>
+	<file src="blips/10.png"/>
+	<file src="blips/11.png"/>
+	<file src="blips/12.png"/>
+	<file src="blips/13.png"/>
+	<file src="blips/14.png"/>
+	<file src="blips/15.png"/>
+	<file src="blips/16.png"/>
+	<file src="blips/17.png"/>
+	<file src="blips/18.png"/>
+	<file src="blips/19.png"/>
+	<file src="blips/20.png"/>
+	<file src="blips/21.png"/>
+	<file src="blips/22.png"/>
+	<file src="blips/23.png"/>
+	<file src="blips/24.png"/>
+	<file src="blips/25.png"/>
+	<file src="blips/26.png"/>
+	<file src="blips/27.png"/>
+	<file src="blips/28.png"/>
+	<file src="blips/29.png"/>
+	<file src="blips/30.png"/>
+	<file src="blips/31.png"/>
+	<file src="blips/32.png"/>
+	<file src="blips/33.png"/>
+	<file src="blips/34.png"/>
+	<file src="blips/35.png"/>
+	<file src="blips/36.png"/>
+	<file src="blips/37.png"/>
+	<file src="blips/38.png"/>
+	<file src="blips/39.png"/>
+	<file src="blips/40.png"/>
+	<file src="blips/41.png"/>
+	<file src="blips/42.png"/>
+	<file src="blips/43.png"/>
+	<file src="blips/44.png"/>
+	<file src="blips/45.png"/>
+	<file src="blips/46.png"/>
+	<file src="blips/47.png"/>
+	<file src="blips/48.png"/>
+	<file src="blips/49.png"/>
+	<file src="blips/50.png"/>
+	<file src="blips/51.png"/>
+	<file src="blips/52.png"/>
+	<file src="blips/53.png"/>
+	<file src="blips/54.png"/>
+	<file src="blips/55.png"/>
+	<file src="blips/56.png"/>
+	<file src="blips/57.png"/>
+	<file src="blips/58.png"/>
+	<file src="blips/59.png"/>
+	<file src="blips/60.png"/>
+	<file src="blips/61.png"/>
+	<file src="blips/62.png"/>
+	<file src="blips/63.png"/>
+	
+	<min_mta_version client="1.3.5" server="1.3.0-9.04134" />
+</meta>
