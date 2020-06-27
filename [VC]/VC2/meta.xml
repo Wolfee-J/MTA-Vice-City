@@ -1,11 +1,7 @@
 
 <meta>
-	<info type="script" name="JStreamer" author="JDev(CodyJ)" description="JDev Streamer V3 (8 was 0.8)" version="2" />
-	<file src="gta3.JSD" />
- 
-	<script src="Loaders/JSDLoader.lua" type="client" />
-	<script src="Loaders/JSPLoader.lua" type="server" />
- 
+	<info type="script" name="Gta Vice City Map" author="CodyJ(Wolfe)" description="MTA-Stream Vice City" version="3" Streamer="1" />
+
 	<script src="Settings/CWaterData.lua" type="client" />
 	<script src="Extras/Animate.lua" type="client" />
 	
