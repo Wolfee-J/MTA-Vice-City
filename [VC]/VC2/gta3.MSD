@@ -81,9 +81,9 @@ ci_busht_04,ci_busht_04,ageneric,ci_busht_04,80,nil,true,nil
 ci_mansion1,ci_mansion1,ci_mansion1,ci_mansion1,140,nil,true,true
 washbuild116,washbuild116,washlandb,washbuild116,70,nil,true,true
 mloven,mloven,foodcourt,mloven,150,nil,true,nil
-nmalloutside,nmalloutside,mallext,nmalloutside,140,true,true,true
-nbnorthmallext1,nbnorthmallext1,mallext,nbnorthmallext1,140,true,true,true
-mlnorthmalllftex,mlnorthmalllftex,mallext,mlnorthmalllftex,140,true,true,true
+nmalloutside,nmalloutside,mallext,nmalloutside,140,nil,true,true
+nbnorthmallext1,nbnorthmallext1,mallext,nbnorthmallext1,140,nil,true,true
+mlnorthmalllftex,mlnorthmalllftex,mallext,mlnorthmalllftex,140,nil,true,true
 Mansion2_C_fence,Mansion2_C_fence,star4,Mansion2_C_fence,350,nil,true,nil
 nb_road01,nb_road01,ageneric,nb_road01,189.5,nil,true,true
 ht_fans_nt,ht_fans_nt,hi_cutintprops,ht_fans_nt,30,nil,true,nil
@@ -639,7 +639,6 @@ wash_deco042,wash_deco042,washmiamistrip13,wash_deco042,130,nil,true,true
 ci_cstage,ci_cstage,ci_studio2,ci_cstage,90,nil,true,true
 nbt_mansiontrees04,nbt_mansiontrees04,ageneric,nbt_mansiontrees04,250,nil,true,nil
 ml_gapwindows03,ml_gapwindows03,ml_coffee,ml_gapwindows03,90,nil,true,true
-ml_coffwin01,ml_coffwin01,ml_coffee,ml_coffwin01,90,nil,true,nil
 mall_hardware,mall_hardware,mall_ammu,mall_hardware,125,nil,true,nil
 Mansion1_base,Mansion1_base,star1,Mansion1_base,290,nil,true,true
 b_hse_pierfence,b_hse_pierfence,dockfence,b_hse_pierfence,160,nil,true,true
@@ -1596,7 +1595,7 @@ ticketbooth2,ticketbooth2,washcpark2,ticketbooth2,30,nil,true,nil
 lhtankdoor,lhtankdoor,lithablk9,lhtankdoor,100,nil,true,nil
 od_clubneon,od_clubneon,od_clubout,od_clubneon,44,nil,true,nil,21,6
 wshhotelawn1,wshhotelawn1,washnewbuild5,wshhotelawn1,90,nil,true,nil
-mallint9,mallint9,malltotal,mallint9,260,nil,true,nil
+mallint9,mallint9,malltotal,mallint9,260,nil,nil,nil
 plank02,plank02,nbtrooftop,plank02,80,nil,true,nil
 ap_terminalB1,ap_terminalB1,airporterminal,ap_terminalB1,290,nil,true,true
 wshnrthroad19,wshnrthroad19,ageneric,wshnrthroad19,140,nil,true,true
@@ -2073,7 +2072,7 @@ ci_astudganwal,ci_astudganwal,ci_setstuff1,ci_astudganwal,35,nil,true,nil
 mlgrndmidtop,mlgrndmidtop,malltotal,mlgrndmidtop,180,nil,true,nil
 washrafalpha,washrafalpha,washnewbuild25,washrafalpha,70,nil,true,nil
 havbit03,havbit03,littlehab2,havbit03,100,nil,true,true
-ml_coffwin02,ml_coffwin02,ml_coffee,ml_coffwin02,90,nil,true,nil
+ml_coffwin02,ml_coffwin02,ml_coffee,ml_coffwin02,90,true,true,nil
 oceanroad04,oceanroad04,odnroads,oceanroad04,200,nil,true,true
 ht_kb_couch1_dy,ht_kb_couch1_dy,hi_cutcouch,ht_kb_couch1_dy,30,nil,true,nil,5,22
 ht_kb_couch1_nt,ht_kb_couch1_nt,hi_cutcouch,ht_kb_couch1_dy,30,nil,true,nil,22,5
@@ -2322,7 +2321,7 @@ lhcoastsky1,lhcoastsky1,habuildblok,lhcoastsky1,150,nil,true,true
 od_clubback,od_clubback,od_clubback,od_clubback,150,nil,true,true
 manmrgbuild1,manmrgbuild1,star1b,manmrgbuild1,100,nil,true,true
 htnroadnew,htnroadnew,sjmh1haitiroad,htnroadnew,199,nil,true,true
-ml_gapwindows12,ml_gapwindows12,ml_coffee,ml_gapwindows12,90,nil,true,nil
+ml_gapwindows12,ml_gapwindows12,ml_coffee,ml_gapwindows12,90,true,true,nil
 dk_waretankdoor1,dk_waretankdoor1,crate,dk_waretankdoor1,75,nil,true,nil
 dk_cargoshp73,dk_cargoshp73,dkcargoshp,dk_cargoshp73,80,nil,true,true
 nb_road06,nb_road06,ageneric,nb_road06,149.5,nil,true,true

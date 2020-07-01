@@ -9,7 +9,6 @@
 	<file src="Content/coll/Plane001.col" type="client" />
 	
 	<file src="Content/textures/MAINLATXD.txd" type="client" />
-	
 	<file src="Content/textures/starwaterfrnt01.txd" type="client" />
 	<file src="Content/textures/oceanstrip10.txd" type="client" />
 	<file src="Content/textures/sjmjcrusher4.txd" type="client" />
